@@ -22,7 +22,6 @@ A readable Python implementation of the **Black-Scholes-Merton
 | `generate_test_data.py` | Regenerates `test_data.json`. Only needed if you add new test scenarios. |
 | `requirements.txt` | 	Every package this project needs — to run the pricer and to run the tests. |
 | `setup_venv.sh` | One command to set up a virtual environment and install everything from requirements.txt |
-| `.gitignore` | Keeps the virtual environment and Python cache files out of git. |
 
 
 
