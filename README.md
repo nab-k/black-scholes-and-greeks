@@ -46,8 +46,8 @@ A couple of choices worth mentioning:
 Requires Python 3.9+ (developed on 3.12).
 
 ```bash
-git clone <this-repo-url>
-cd <repo>
+git clone https://github.com/nab-k/black-scholes-and-greeks
+cd black-scholes-and-greeks
 
 bash setup_venv.sh --clean          # creates .venv, installs requirements.txt
 source .venv/bin/activate      
