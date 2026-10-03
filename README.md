@@ -27,7 +27,7 @@ A readable Python implementation of the **Black-Scholes-Merton
 
 ## Design Notes
 
-A couple of small choices worth knowing about:
+A couple of choices worth mentioning:
 
 - **One source for the math.** Both the pricer and the Greeks
   depend on the same `d1`/`d2` functions in `european_bsm.py`, rather
