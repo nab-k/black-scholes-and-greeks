@@ -1,0 +1,6 @@
+# Python packages for this project.
+# Developed and tested with Python 3.12.
+
+scipy>=1.10      # BSM pricing + Greeks math
+pytest>=7.0      # runs tester.py
+QuantLib>=1.30   # only used by generate_test_data.py, to regenerate test_data.json
